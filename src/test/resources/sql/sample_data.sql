@@ -1,0 +1,1 @@
+INSERT INTO people values (1, '2000-01-01', 'John', 'Doe')
